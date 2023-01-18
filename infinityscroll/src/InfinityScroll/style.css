@@ -1,0 +1,28 @@
+
+.card-info{
+    padding: 1rem 2rem;
+    border-radius: 1rem;
+    background-color: #213547;
+    text-align: center;
+}
+@media screen and (max-width:1119){
+    .containercard{
+        max-width: 90%;
+    }
+    .gird{
+        gap:1.6rem;
+    }
+    .card{
+        background-color: #213547;
+    }
+    .card-info{
+        padding: 0rem;
+        background-color: #213547;
+    }
+}
+.card{
+    padding: 2em;
+}
+.read-the-docs{
+    color: #888;
+}
